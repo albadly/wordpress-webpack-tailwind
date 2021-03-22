@@ -1,6 +1,3 @@
 module.exports = {
-  purge: [
-    './**/*.php',
-    './assets/src/**/*.js'
-  ]
-}
+  purge: ["./**/*.php", "./assets/src/**/*.js"],
+};
